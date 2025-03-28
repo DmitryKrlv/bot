@@ -4,7 +4,7 @@ import datetime
 import asyncio
 
 # Токен вашего бота
-TOKEN = "7578503708:AAFe5_zPs5K770uNbxzGtj3xmB3wkGT_lG8"
+TOKEN = 
 
 # Список задач
 tasks = []
